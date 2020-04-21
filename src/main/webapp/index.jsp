@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome Teja's Git</h1>
-<h2>Hi this is test project index file</h2>
+<h1>Welcome to Chef Project</h1>
+<h2>This is test file changes</h2>
 </body>
 </html>
